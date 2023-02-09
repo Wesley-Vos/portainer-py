@@ -1,10 +1,5 @@
-import copy
-import ntpath
 from collections import namedtuple
 
-from ..errors import (
-    DockerException, NotFound
-)
 from .resource import Collection, Model
 
 

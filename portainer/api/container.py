@@ -1,6 +1,5 @@
 from datetime import datetime
 
-from .. import errors
 from .. import utils
 
 

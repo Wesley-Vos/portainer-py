@@ -1,4 +1,3 @@
-from .. import errors
 from . import utils
 
 def auth(f):
